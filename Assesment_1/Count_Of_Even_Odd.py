@@ -4,10 +4,10 @@ odd = 0
 for i in a:
     if(i%2==0):
     
-       even = even + 1
+      even = even + 1
     else:
         odd  = odd + 1
     
-print("count of even number is : ",even)
-print("count of odd number is : ",odd)  
+print("Count of even number is : ",even)
+print("Count of odd number is : ",odd)  
           
