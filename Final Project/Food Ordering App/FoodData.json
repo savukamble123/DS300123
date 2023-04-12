@@ -1,0 +1,30 @@
+{
+    "1": {
+        "Food_Name": "Tandoori Lollipop",
+        "Quantity": "4pieces",
+        "Price": 180,
+        "Discount": 80,
+        "Stock": 400
+    },
+    "2": {
+        "Food_Name": "Tandoori Chicken",
+        "Quantity": "9pieces",
+        "Price": 390,
+        "Discount": 80,
+        "Stock": 400
+    },
+    "3": {
+        "Food_Name": "Chiken Biryani",
+        "Quantity": "1kg",
+        "Price": 200.0,
+        "Discount": 60.0,
+        "Stock": 100
+    },
+    "4": {
+        "Food_Name": "tandoor biryani",
+        "Quantity": "2 kilo",
+        "Price": 200.0,
+        "Discount": 90.0,
+        "Stock": 700
+    }
+}

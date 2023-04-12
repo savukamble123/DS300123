@@ -1,0 +1,45 @@
+[
+    {
+        "Full_name": "Savita",
+        "Email": "savita@gmail.com",
+        "Password": "1234",
+        "Address": "navi mumbai",
+        "Phone Number": "123456789",
+        "Order History": [
+            [
+                "1",
+                "Tandoori Lollipop",
+                "4pieces",
+                180
+            ],
+            [
+                "2",
+                "Tandoori Chicken",
+                "9pieces",
+                390
+            ]
+        ]
+    },
+    {
+        "Full_name": "Varsha Jadhav",
+        "Email": "varsha@gmail.com",
+        "Password": "12345",
+        "Address": "karnataka",
+        "Phone Number": 9877898967,
+        "Order History": [
+            [
+                "2",
+                "Tandoori Chicken",
+                "9pieces",
+                390
+            ],
+            [
+                "3",
+                "Chiken Biryani",
+                "1kg",
+                200.0
+            ]
+            
+        ]
+    }
+]
