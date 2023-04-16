@@ -1,0 +1,31 @@
+Data Types:
+
+1.What are the different data types in Python?
+2.How do you convert one data type to another in Python?
+3.What is the difference between a list and a tuple in Python?
+4.How do you create an empty dictionary in Python?
+5.How do you check the type of a variable in Python?
+
+Operators:
+
+6.What are the arithmetic operators in Python?
+7.What is the difference between / and // operators in Python?
+8.How do you concatenate two strings in Python?
+9.What is the difference between == and is operators in Python?
+10.What is the difference between a shallow copy and a deep copy in Python?
+
+Conditional Statements:
+
+11.What is the syntax for if-else statement in Python?
+12.How do you use nested if statements in Python?
+13.What is the difference between if and elif statements in Python?
+14.How do you use the ternary operator in Python?
+15.How do you use the pass statement in Python?
+
+Looping Statements:
+
+16.What is the syntax for a for loop in Python?
+17.How do you iterate over a dictionary in Python?
+18.What is the difference between while and for loop in Python?
+19.How do you use the break and continue statements in Python?
+20.How do you use the range function in Python?
