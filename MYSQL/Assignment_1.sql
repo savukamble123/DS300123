@@ -13,12 +13,18 @@ HAVING SUM(O.Amt) > 2000;
 
 -- 3. Count the number of Salesperson belonging to Newyork.
 
-select count(sname) from salespeople where city like '%Newyork%';
+SELECT COUNT(*) AS SalespeopleCount
+FROM SalesPeople
+WHERE City = 'NewYork';
 
 
 -- 4.Display the number of Salespeople belonging to London and belonging to Paris.
 
-select sname from salespeople where city like '%London%' or city like '%Paris%';
+SELECT * FROM product.salespeople;
+SELECT City, COUNT(*) AS SalespeopleCount
+FROM SalesPeople
+WHERE City IN ('London', 'Paris')
+GROUP BY City;
 
 -- 5.Display the number of orders taken by each Salesperson and their date of orders.
 
