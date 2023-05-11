@@ -20,7 +20,6 @@ WHERE City = 'NewYork';
 
 -- 4.Display the number of Salespeople belonging to London and belonging to Paris.
 
-SELECT * FROM product.salespeople;
 SELECT City, COUNT(*) AS SalespeopleCount
 FROM SalesPeople
 WHERE City IN ('London', 'Paris')
